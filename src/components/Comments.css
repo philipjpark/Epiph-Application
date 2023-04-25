@@ -1,0 +1,93 @@
+.Comments {
+    font-family: 'Proza Libre', 'Cormorant Garamond', sans-serif; 
+    padding: 0;
+  }
+  
+  .Comments form {
+    margin-bottom: 20px;
+  }
+ 
+  #name {
+    font-family: 'Proza Libre', sans-serif;
+    font-size: 15px;
+  }
+
+  .Comments input[type="text"],
+  .Comments textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #397392;;
+    margin-bottom: 10px;
+    font-family: 'Proza Libre', sans-serif;
+    font-size: 15px;
+  }
+  
+  .Comments button[type="submit"] {
+    font-family: 'Proza Libre';
+    font-size: 15px;
+    font-weight: 600;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #17445E;
+    background-color: #216288;
+    color:white;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .Comments button[type="submit"]:hover {
+    background-color: #0062cc;
+  }
+  
+  .Comments h3 {
+    font-family: 'Proza Libre';
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  .Comments p {
+    font-family: 'Proza Libre', sans-serif;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+
+  .line-container {
+    height: 2px;
+    background-color: #242f37;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .comments-line-container {
+    height: 2px;
+    background-color: #c0c7ce;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  ul {
+    /* margin-left: 0; */
+    padding: 0;
+    list-style: none;
+  }
+
+  li h3 {
+    margin: 0;
+    padding: 0;
+    font-family: 'Cormorant Garamond';
+    font-size: 20px;
+    color: #242f37;
+  }
+  
+  li p {
+    display: inline-block;
+    font-family: 'Cormorant Garamond';
+    font-size: 20px;
+    color: #242f37;
+    margin-left: 0;
+    padding-left: 0;
+    margin: 0;
+    padding: 0;
+  }
+  

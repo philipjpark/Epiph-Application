@@ -1,0 +1,85 @@
+.EditPost {
+  font-family: 'Cormorant Garamond', serif, 'Proza Libre', sans-serif;
+  font-weight:bold; 
+  font-style:normal;
+  font-size: calc(10px + 2vmin);
+  color: #242f37;
+  background-color:#fbfaf6;
+  padding:20px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+input {
+    margin-top: 10px;
+    width: 100%;
+    height: 45px;
+    border-radius: 8px;
+    border: 1px solid #397392;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+label {
+    font-family: 'Proza Libre';
+    font-size: 16px;
+}
+
+#title {
+    font-family: 'Proza Libre', sans-serif;
+    font-size: 15px;
+}
+
+#author {
+    font-family: 'Proza Libre', sans-serif;
+    font-size: 15px;
+}
+
+#description {
+    font-family: 'Proza Libre', sans-serif;
+    font-size: 15px;
+}
+
+textarea {
+    border-radius: 8px;
+    width: 100%;
+    border: 1px solid #397392;
+    font-size: 20px;
+    font-family: inherit;
+}
+
+input[type=submit] {
+    font-family: 'Proza Libre';
+    width: 40%;
+    height: 50px;
+    cursor: pointer;
+    border-radius: 8px;
+    border: 1px solid #17445E;
+    background-color: #216288;
+    font-size: 15px;
+    font-weight: 600;
+    color:white;
+    transition: border-color 0.25s;
+    margin-top: 20px;
+  }
+
+input[type=submit]:hover {
+    border-color: #646cff;
+}
+
+.deleteButton {
+    width: 40%;
+    height: 50px;
+    cursor: pointer;
+    border-radius: 8px;
+    border: 1px solid transparent;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: 'Proza Libre';
+    background-color: 	#963939;
+    color:white;
+    transition: border-color 0.25s;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}

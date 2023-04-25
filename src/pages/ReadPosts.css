@@ -1,0 +1,17 @@
+.ReadPosts {
+    display: grid;
+    grid-auto-flow: row;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+    margin-top: 40px;
+}
+
+.NoIdeas h2 {
+    font-family: 'Proza Libre', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    color: #17445E;
+    margin-bottom: 20px;   
+    -webkit-text-stroke: 0.5px #17445E;
+}
+

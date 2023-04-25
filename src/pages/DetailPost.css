@@ -1,0 +1,59 @@
+.DetailPost {
+    font-family: 'Proza Libre', 'Cormorant Garamond', sans-serif;
+    background-color: #fbfaf6;
+    color: #242f37;
+    padding: 20px;
+  }
+
+.DetailPost h4 {
+  font-family: 'Cormorant Garamond', sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: #242f37;
+  -webkit-text-stroke: 0.5px #242f37;
+}
+
+  /* .PostList h3 {
+    display: inline-block;
+    font-family: 'Proza Libre';
+    color: #242f37;
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  .PostList p {
+    display: inline-block;
+    font-family: 'Proza Libre';
+    font-size: 20px;
+    color: #242f37;
+  } */
+
+.PostContainer ul {
+  font-family: 'Proza Libre';
+  list-style-type: none;
+  padding: 0;
+}
+  
+.PostContainer li {
+  font-family: 'Proza Libre';
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  color: #242f37;
+}
+  
+.PostContainer h3 {
+  font-family: 'Proza Libre';
+  font-size: 18px;
+  font-weight: bold;
+  margin-right: 10px;
+  line-height: 2;
+}
+
+.PostContainer p {
+  font-family: 'Proza Libre';
+  font-size: 18px;
+  color: #242f37;
+  /* line-height: 0.5; */
+}
+

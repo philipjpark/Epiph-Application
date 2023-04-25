@@ -1,0 +1,44 @@
+.Home {
+  font-family: 'Cormorant Garamond', serif, 'Proza Libre', sans-serif;
+  background-color: #fbfaf6;
+  color: #242f37;
+  padding: 20px;
+  overflow: hidden; 
+  margin: 0 20px;
+} 
+
+.HomeText {
+  margin-left: 25px; 
+  margin-top: 20px; 
+}
+
+.HomeText h2 {
+  font-style: italic; 
+  color:#242f37 ;
+  font-size: 60px;
+  -webkit-text-stroke: 0.5px #242f37;
+}
+
+.HomeText h4 {
+  font-family: 'Proza Libre';
+  color: #1b5577;
+  font-size: 20px;
+  line-height: 2;
+  -webkit-text-stroke: 0.1px #1b5577;
+}
+
+.HomeText p {
+  font-family: 'Proza Libre';
+  font-size: 17px;
+  font-weight: bold;
+  color:#1b5577 ;
+  line-height: 2;
+  -webkit-text-stroke: 0.1px #1b5577;
+}
+
+.float-right {
+  float: right;
+  margin-left: 20px; 
+  margin-top: 155px; 
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
