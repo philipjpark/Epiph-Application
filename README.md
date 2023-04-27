@@ -6,7 +6,7 @@ Submitted by: **Philip Park**
 
 This web app: **An ideas hub app**
 
-Time spent: **15** hours spent in total
+Time spent: **30** hours spent in total
 
 ## Required Features
 
@@ -26,7 +26,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] Users can only edit and deleted posts or delete comments by entering the secret key, which is set by the user during post creation
+- [X] Users can only edit and deleted posts or delete comments by entering the secret key, which is set by the user during post creation
 - [ ] Upon launching the web app, the user is assigned a random user ID. It will be associated with all posts and comments that they make and displayed on them.
 - [ ] Users can repost a previous post by referencing its post ID. On the post page of the new post, the referenced post is displayed and linked, creating a thread
 - [ ] Users can customize the interface of the web app
@@ -41,11 +41,10 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's the deployed website:
 
-![Kapture 2023-04-25 at 01 50 412](https://user-images.githubusercontent.com/66290921/234195074-d00e871d-109c-4dbf-a115-00cf12d11ce4.gif)
+https://epiph.netlify.app/
 
-Gif created with Kap
 <!-- Replace this with whatever GIF tool you used! -->
 
 <!-- Recommended tools:
@@ -57,7 +56,7 @@ Gif created with Kap
 
 Describe any challenges encountered while building the app.
 
-The app was difficult and comments page was hard but I persevered. 
+The app was difficult and comments page was hard but I persevered.
 
 ## License
 
